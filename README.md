@@ -1,6 +1,9 @@
-# TankStarsGame
+# TankBlitz
 
-A PvP tank fighting game based on "Tank Stars" by Azur Games.
+TankBlitz is a 2D PvP tank combat game inspired by "Tank Stars" by Azur Games, emphasizing modular, maintainable code through OOP principles. Key features include:
+1. Game Mechanics: Core components like tanks, projectiles, and terrain elements are modularly designed for ease of expansion and modification.
+2. Encapsulated Behaviors: Each game entity’s behavior is isolated, enhancing reusability and promoting consistent code structure across new features.
+3. Physics Integration: Realistic movement, projectile dynamics, and collision handling enhance gameplay immersion and smooth mechanics.
 
 ## Tech Stack
 
