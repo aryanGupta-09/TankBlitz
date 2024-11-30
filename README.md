@@ -7,9 +7,9 @@ TankBlitz is a 2D PvP tank combat game inspired by "Tank Stars" by Azur Games, e
 
 ## Tech Stack
 
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Java-white-bg.jpeg" width="60" height="60" alt="Java" /></a>
-<a href="https://libgdx.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/libGDX.png" width="80" height="60" alt="libGDX" /></a>
-<a href="https://box2d.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Box2D.png" width="90" height="60" alt="Box2d" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Java-white-bg.jpeg" width="60" height="60" alt="Java" /></a>
+<a href="https://libgdx.com/" target="_blank" rel="noreferrer" title="libGDX"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/libGDX.png" width="80" height="60" alt="libGDX" /></a>
+<a href="https://box2d.org/" target="_blank" rel="noreferrer" title="Box2D"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Box2D.png" width="90" height="60" alt="Box2d" /></a>
 
 ## Installation
 
